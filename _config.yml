@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-theme: minima
 asciidoc: {}
 asciidoctor: {}
-=======
 theme: jekyll-theme-hacker
->>>>>>> d9f5f82d63c842e51e7e11a9fdac051ea1e08867
