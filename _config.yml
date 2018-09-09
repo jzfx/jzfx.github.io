@@ -1,3 +1,6 @@
-asciidoc: {}
+asciidoc:
+    processor: asciidoctor
+    ext: asciidoc,adoc,ad
+
 asciidoctor: {}
 theme: jekyll-theme-hacker
